@@ -3,7 +3,7 @@
     <h1>💕 PLUPPEN 💕</h1>
     
     <p class="compliment">
-      Du är allt jag någonsin drömt om. <br><br>Du är pilgrimen som leder mig till äventyr, till nya smaker, nya tankar och nya vyer. Du ser på världen som en lekplats att uppleva och utforska. Dina ögon skimrar med glädje för det okända och din själ brinner varmt för livet och kärlek. Varje stund med dig är en gåva och ett äventyr.<br><br>Du är i din helhet - din fysik, din personlighet, dina svagheter och styrkor; den vackraste och mest underbara person jag haft privilegiet att lära känna.
+      Hej sötis, hoppas du har en bra första dag tillbaka på jobbet.<br><br>Du är allt jag någonsin drömt om.<br>Du är pilgrimen som leder mig till äventyr, till nya smaker, nya tankar och nya vyer. Du ser på världen som en lekplats att uppleva och utforska. Dina ögon skimrar med glädje för det okända och din själ brinner varmt för livet och kärlek. Varje stund med dig är en gåva och ett äventyr.<br><br>Du är i din helhet - din fysik, din personlighet, dina svagheter och styrkor; den vackraste och mest underbara person jag haft privilegiet att lära känna.
     </p>
     
     <p class="question">Vill du ses på Valentine?</p>
